@@ -1,0 +1,17 @@
+\\QUESTION-
+
+#include<stdio.h>
+int main(){
+         int n;
+         for(n=0; n<6; n++);
+         {
+                printf("Codechef");
+          }
+          return 0;
+}
+
+
+\\ANSWER-
+\\will print word'codechef' only for once as in for loop semicolon is included so it will be terminated immediately after semicolon.(will look like it is a empty loop or no body for the loop)
+\\The for loop doesn't work  due to semicolon but the print statement works once.
+\\ Since there is a semicolon after the for loop so the loop keeps on revolving between the for loop and the semicolon and when the condition reaches its end, it shifts to the next statement so the 5th "codechef" gets printed once
