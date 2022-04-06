@@ -16,3 +16,6 @@ int main() {
 }
 
 Ans: 10 40
+Option B
+
+Explanation- First the statement (int c=b-a) will be executed and will give output 10 then the next statement(int c=a+b) will be executed and will give output 40 as local variable(c=a-b) is given first priority over the global variable (c=a+b)
