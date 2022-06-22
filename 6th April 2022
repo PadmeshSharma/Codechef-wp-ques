@@ -19,3 +19,7 @@ Ans: 10 40
 Option B
 
 Explanation- First the statement (int c=b-a) will be executed and will give output 10 then the next statement(int c=a+b) will be executed and will give output 40 as local variable(c=a-b) is given first priority over the global variable (c=a+b)
+This question is based on the concept of scopes. 
+For the 1st printf statement, the value of local variable 'c' (b-a) will be printed since the statement is inside a block, i.e. 10 will be printed.
+For the 2nd printf statement, the value of the global variable 'c' (a+b) will be printed since it is outside the block, i.e. 40 will be printed.
+Thus the output will be -> 10  40
