@@ -1,0 +1,24 @@
+Question :
+
+Complete the series:
+9=4, 21=9, 22=9, 24=10, 8=5, 7=5, 99=10, 100=7, 16=?, 17=?
+A. 7 and 5
+B. 5 and 7
+C. 7 and 9
+D. 9 and 7
+
+Answer: C.
+
+Explanation: 16=7 and 17=9 as the number of letters in the spelling of 16 (sixteen) is 7 and that of 17 (seventeen) is 9.
+The pattern here is that number digit = no of letters in the alphabet i.e.,Count number of alphabets in number (in words).
+
+9 ( NINE ) = 4
+21 ( TWENTY ONE ) = 9
+22 ( TWENTY TWO) = 9
+24 ( TWENTY FOUR ) = 10
+8 ( EIGHT ) = 5
+7 ( SEVEN ) = 5
+99 ( NINETY NINE) = 10
+100 ( HUNDRED) = 7
+16 ( SIXTEEN ) = 7
+17 ( SEVENTEEN ) = 9
